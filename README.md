@@ -1,0 +1,2 @@
+# Do Layoffs Pay Off? Analyzing the Financial Aftermath of Workforce Reductions
+This project investigates the financial and operational impacts of layoffs in the tech industry. By analyzing data from major companies such as FAANG and Tesla, the study examines key financial ratios and metrics before and after significant layoff events. The findings highlight the complex interplay between short-term financial gains and long-term operational challenges, offering insights into the effectiveness of layoffs as a corporate strategy.
